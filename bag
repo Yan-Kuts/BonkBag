@@ -1,0 +1,38 @@
+index.html<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Назва вашого токена</title>
+    <style>
+        body { font-family: Arial, sans-serif; line-height: 1.6; padding: 20px; }
+        header, footer { text-align: center; padding: 10px 0; }
+        main { max-width: 800px; margin: 0 auto; }
+        h1 { color: #333; }
+        a { color: #0077cc; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Назва вашого токена</h1>
+        <p>Вітаємо на офіційній сторінці токена!</p>
+    </header>
+    <main>
+        <section>
+            <h2>Про токен</h2>
+            <p>Тут може бути опис вашого токена, його особливості та переваги.</p>
+        </section>
+        <section>
+            <h2>Приєднуйтесь до нас</h2>
+            <p>
+                <a href="URL_вашого_Telegram" target="_blank">Telegram</a><br>
+                <a href="URL_вашого_Discord" target="_blank">Discord</a><br>
+                <a href="URL_вашого_Twitter" target="_blank">Twitter</a>
+            </p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2025 Назва вашого токена. Всі права захищені.</p>
+    </footer>
+</body>
+</html>
